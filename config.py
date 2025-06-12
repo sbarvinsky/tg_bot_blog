@@ -1,4 +1,4 @@
-TELEGRAM_TOKEN = "ВСТАВЬ_СЮДА_СВОЙ_ТОКЕН"
+TELEGRAM_TOKEN = "1667810408:AAFoUREEdV5hNHuedD4CSuO6QI4QUhrPxKQ"
 
 DEFAULT_CATEGORIES = [
     "Личные истории",
